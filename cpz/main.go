@@ -1,5 +1,6 @@
 /*
-Copyright © 2023 qzakwani
+Copyright © 2023 github.com/qzakwani
+
 */
 package main
 
