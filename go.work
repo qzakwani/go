@@ -1,0 +1,7 @@
+go 1.20
+
+use (
+	./fiber_server
+	./simple_web_server
+	./gin1
+)
